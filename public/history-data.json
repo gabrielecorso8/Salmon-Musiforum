@@ -1,0 +1,841 @@
+[
+  {
+    "n": 1,
+    "artist": "Battiato",
+    "title": "Fetus",
+    "year": "1972",
+    "image": "/covers/1.jpg",
+    "note": "La prima miniserie: introduzione"
+  },
+  {
+    "n": 2,
+    "artist": "David Bowie",
+    "title": "\"Heroes\"",
+    "year": "1977",
+    "image": "/covers/2.jpg",
+    "note": "La prima miniserie: introduzione"
+  },
+  {
+    "n": 3,
+    "artist": "Miles Davis",
+    "title": "Kind of Blue",
+    "year": "1959",
+    "image": "/covers/3.jpg",
+    "note": "La prima miniserie: introduzione"
+  },
+  {
+    "n": 4,
+    "artist": "The Beach Boys",
+    "title": "The Smile Sessions",
+    "year": "2011",
+    "image": "/covers/4.jpg",
+    "note": "La seconda miniserie: tega produzione"
+  },
+  {
+    "n": 5,
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Déjà vu",
+    "year": "1970",
+    "image": "/covers/5.jpg",
+    "note": "La seconda miniserie: tega produzione"
+  },
+  {
+    "n": 6,
+    "artist": "Fabrizio De André",
+    "title": "Anime salve",
+    "year": "1996",
+    "image": "/covers/6.jpg",
+    "note": "La seconda miniserie: tega produzione"
+  },
+  {
+    "n": 7,
+    "artist": "Esperanza Spalding",
+    "title": "12 Little Spells",
+    "year": "2018",
+    "image": "/covers/7.jpg",
+    "note": "La terza miniserie: estate (all'Ammazza Caffè)"
+  },
+  {
+    "n": 8,
+    "artist": "Bon Iver",
+    "title": "22, A Million",
+    "year": "2016",
+    "image": "/covers/8.jpg",
+    "note": "La terza miniserie: estate (a Villa Ambrosetti)"
+  },
+  {
+    "n": 9,
+    "artist": "Keith Jarrett",
+    "title": "The Köln Concert",
+    "year": "1975",
+    "image": "/covers/9.jpg",
+    "note": "La terza miniserie: estate (all'Eremo di San Rocchetto)"
+  },
+  {
+    "n": 10,
+    "artist": "Antony and the Johnsons",
+    "title": "I Am a Bird Now",
+    "year": "2005",
+    "image": "/covers/10.jpg",
+    "note": "Special Edition: un musiforum al Castello Solidale (a Castel San Pietro)"
+  },
+  {
+    "n": 11,
+    "artist": "Lucio Battisti",
+    "title": "Anima Latina",
+    "year": "1974",
+    "image": "/covers/11.jpg",
+    "note": "La nuova stagione: autunno (a Castel San Pietro)"
+  },
+  {
+    "n": 12,
+    "artist": "Michael Jackson",
+    "title": "Thriller",
+    "year": "1982",
+    "image": "/covers/12.jpg",
+    "note": "La quarta miniserie: mega produzioni - per Fondazione Cariverona (a Castel San Pietro)"
+  },
+  {
+    "n": 13,
+    "artist": "Daft Punk",
+    "title": "Random Access Memories",
+    "year": "2013",
+    "image": "/covers/13.jpg",
+    "note": "La quarta miniserie: mega produzioni - per Fondazione Cariverona (a Castel San Pietro)"
+  },
+  {
+    "n": 14,
+    "artist": "Kendrick Lamar",
+    "title": "DAMN.",
+    "year": "2017",
+    "image": "/covers/14.jpg",
+    "note": "La quarta miniserie: mega produzioni - per Fondazione Cariverona (a Castel San Pietro)"
+  },
+  {
+    "n": 15,
+    "artist": "Joni Mitchell",
+    "title": "Both Sides Now",
+    "year": "2000",
+    "image": "/covers/15.jpg",
+    "note": "Fall Special: il primo freddo"
+  },
+  {
+    "n": 16,
+    "artist": "The Beatles",
+    "title": "Rubber Soul",
+    "year": "1965",
+    "image": "/covers/16.jpg",
+    "note": "La quinta miniserie: arrangiamento"
+  },
+  {
+    "n": 17,
+    "artist": "James Blake",
+    "title": "James Blake",
+    "year": "2011",
+    "image": "/covers/17.jpg",
+    "note": "La quinta miniserie: arrangiamento (all'Ammazza Caffè)"
+  },
+  {
+    "n": 18,
+    "artist": "Oliver Nelson",
+    "title": "The Blues and the Abstract Truth",
+    "year": "1961",
+    "image": "/covers/18.jpg",
+    "note": "La quinta miniserie: arrangiamento (all'Agriturismo Locanda Case Vecie)"
+  },
+  {
+    "n": 19,
+    "artist": "Nina Simone",
+    "title": "Nina Simone and Piano!",
+    "year": "1969",
+    "image": "/covers/19.jpg",
+    "note": "Verona Città delle Donne, ospite Anna Bassy per il Comune di Verona"
+  },
+  {
+    "n": 20,
+    "artist": "Mac Miller",
+    "title": "Swimming",
+    "year": "2018",
+    "image": "/covers/20.jpg",
+    "note": "La sesta miniserie: last will (all'Ammazza Caffè)"
+  },
+  {
+    "n": 21,
+    "artist": "David Bowie",
+    "title": "★ [Blackstar]",
+    "year": "2016",
+    "image": "/covers/21.jpg",
+    "note": "La sesta miniserie: last will"
+  },
+  {
+    "n": 22,
+    "artist": "Luigi Tenco",
+    "title": "Tenco",
+    "year": "1966",
+    "image": "/covers/22.jpg",
+    "note": "La sesta miniserie: last will"
+  },
+  {
+    "n": 23,
+    "artist": "John Coltrane",
+    "title": "A Love Supreme",
+    "year": "1965",
+    "image": "/covers/23.jpg",
+    "note": "Giornata internazionale del jazz: una serata un po’ speciale"
+  },
+  {
+    "n": 24,
+    "artist": "Elis & Tom",
+    "title": "Elis & Tom",
+    "year": "1974",
+    "image": "/covers/24.jpg",
+    "note": "La settima miniserie: sudamericana vol.1"
+  },
+  {
+    "n": 25,
+    "artist": "Milton Nascimento & Lô Borges",
+    "title": "Clube da Esquina",
+    "year": "1972",
+    "image": "/covers/25.jpg",
+    "note": "La settima miniserie: sudamericana vol.1"
+  },
+  {
+    "n": 26,
+    "artist": "The Beach Boys",
+    "title": "Pet Sounds",
+    "year": "1966",
+    "image": "/covers/26.jpg",
+    "note": "L'ottava miniserie: ciao mamma, guarda come mi diverto! (a cambiare l’industria musicale)"
+  },
+  {
+    "n": 27,
+    "artist": "Miles Davis",
+    "title": "Bitches Brew",
+    "year": "1970",
+    "image": "/covers/27.jpg",
+    "note": "L'ottava miniserie: ciao mamma, guarda come mi diverto! (a cambiare l’industria musicale)"
+  },
+  {
+    "n": 28,
+    "artist": "Billie Eilish",
+    "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "year": "2019",
+    "image": "/covers/28.jpg",
+    "note": "L'ottava miniserie: ciao mamma, guarda come mi diverto! (a cambiare l’industria musicale)"
+  },
+  {
+    "n": 29,
+    "artist": "Lucio Battisti",
+    "title": "Il Nostro Caro Angelo",
+    "year": "1973",
+    "image": "/covers/29.jpg",
+    "note": "LET’S PLAY. Salmon Musiforum x Associazione Giochi Antichi (al Parco delle Colombare)"
+  },
+  {
+    "n": 30,
+    "artist": "Frank Ocean",
+    "title": "Blonde",
+    "year": "2016",
+    "image": "/covers/30.jpg",
+    "note": "catarsi in riva al fiume. Salmon Musiforum x Bridge Film Festival (all’Antica Dogana di fiume)"
+  },
+  {
+    "n": 31,
+    "artist": "Paul McCartney & Linda McCartney",
+    "title": "Ram",
+    "year": "1971",
+    "image": "/covers/31.jpg",
+    "note": "dalle stelle alle stalle. Salmon Musiforum x 2° Circoscrizione del Comune di Verona (a Corte Molon)"
+  },
+  {
+    "n": 32,
+    "artist": "Amy Winehouse",
+    "title": "Back to Black",
+    "year": "2006",
+    "image": "/covers/32.jpg",
+    "note": "La nona miniserie: nudi & crudi"
+  },
+  {
+    "n": 33,
+    "artist": "Sufjan Stevens",
+    "title": "Carrie & Lowell",
+    "year": "2015",
+    "image": "/covers/33.jpg",
+    "note": "La nona miniserie: nudi & crudi"
+  },
+  {
+    "n": 34,
+    "artist": "Tyler, The Creator",
+    "title": "IGOR",
+    "year": "2019",
+    "image": "/covers/34.jpg",
+    "note": "La nona miniserie: nudi & crudi"
+  },
+  {
+    "n": 35,
+    "artist": "Ancher",
+    "title": "Verdelegno",
+    "year": "2011",
+    "image": "/covers/35.jpg",
+    "note": "Verdelegno. Salmon Musiforum x PIASE Festival (a Villa Bertelè)"
+  },
+  {
+    "n": 36,
+    "artist": "Battiato",
+    "title": "Fisiognomica",
+    "year": "1988",
+    "image": "/covers/36.jpg",
+    "note": "Battiato, fisiognomica (magnifica). Salmon Musiforum x Fondazione ANT (alla Casa di quartiere Baleno)"
+  },
+  {
+    "n": 37,
+    "artist": "A Tribe Called Quest",
+    "title": "The Low End Theory",
+    "year": "1991",
+    "image": "/covers/37.jpg",
+    "note": "La decima miniserie: hip hop vol.1, Salmon Musiforum x Cracaus"
+  },
+  {
+    "n": 38,
+    "artist": "Wu-Tang Clan",
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "year": "1993",
+    "image": "/covers/38.jpg",
+    "note": "La decima miniserie: hip hop vol.1, Salmon Musiforum x Cracaus"
+  },
+  {
+    "n": 39,
+    "artist": "Björk",
+    "title": "Debut",
+    "year": "1993",
+    "image": "/covers/39.jpg",
+    "note": "L'undicesima miniserie: alfredo"
+  },
+  {
+    "n": 40,
+    "artist": "Sigur Rós",
+    "title": "Takk...",
+    "year": "2005",
+    "image": "/covers/40.jpg",
+    "note": "L'undicesima miniserie: alfredo"
+  },
+  {
+    "n": 41,
+    "artist": "Marvin Gaye",
+    "title": "What's Going On",
+    "year": "1971",
+    "image": "/covers/41.jpg",
+    "note": "La dodicesima miniserie: riproduzione politica"
+  },
+  {
+    "n": 42,
+    "artist": "Fabrizio De André",
+    "title": "Tutti morimmo a stento",
+    "year": "1968",
+    "image": "/covers/42.jpg",
+    "note": "La tredicesima miniserie: concetto italiano"
+  },
+  {
+    "n": 43,
+    "artist": "Gianfranca Montedoro",
+    "title": "Donna Circo",
+    "year": "1974",
+    "image": "/covers/43.jpg",
+    "note": "La tredicesima miniserie: concetto italiano"
+  },
+  {
+    "n": 44,
+    "artist": "Alice Coltrane Featuring Pharoah Sanders",
+    "title": "Journey in Satchidananda",
+    "year": "1971",
+    "image": "/covers/44.jpg",
+    "note": "La quattordicesima miniserie: la jazzara"
+  },
+  {
+    "n": 45,
+    "artist": "Keith Jarrett",
+    "title": "La Scala",
+    "year": "1995",
+    "image": "/covers/45.jpg",
+    "note": "La quattordicesima miniserie: la jazzara"
+  },
+  {
+    "n": 46,
+    "artist": "Kendrick Lamar",
+    "title": "To Pimp a Butterfly",
+    "year": "2015",
+    "image": "/covers/46.jpg",
+    "note": "La quindicesima miniserie: frankenstein"
+  },
+  {
+    "n": 47,
+    "artist": "Big Thief",
+    "title": "Dragon New Warm Mountain I Believe In You",
+    "year": "2022",
+    "image": "/covers/47.jpg",
+    "note": "La quindicesima miniserie: frankenstein"
+  },
+  {
+    "n": 48,
+    "artist": "Björk",
+    "title": "Biophilia",
+    "year": "2011",
+    "image": "/covers/48.jpg",
+    "note": "giardini aperti, Salmon Musiforum x Interno Verde (nel giardino di Palazzo Beccherle)"
+  },
+  {
+    "n": 49,
+    "artist": "Moondog",
+    "title": "Moondog 2",
+    "year": "1971",
+    "image": "/covers/49.jpg",
+    "note": "evanescenza, Salmon Musiforum x Verona Risuona (in Piazza Santa Toscana all’alba)"
+  },
+  {
+    "n": 50,
+    "artist": "Fiona Apple",
+    "title": "The Idler Wheel Is Wiser than the Driver of the Screw and Whipping Cords Will Serve You More than Ropes Will Ever Do",
+    "year": "2012",
+    "image": "/covers/50.jpg",
+    "note": "one Apple a day. Salmon Musiforum x Fondazione ANT"
+  },
+  {
+    "n": 51,
+    "artist": "Pink Floyd",
+    "title": "The Wall",
+    "year": "1979",
+    "image": "/covers/51.jpg",
+    "note": "catarsi in riva al fiume vol.2, Salmon Musiforum x Bridge Film Festival (al Teatro Satiro Off)"
+  },
+  {
+    "n": 52,
+    "artist": "Caterina Barbieri",
+    "title": "Ecstatic Computation",
+    "year": "2019",
+    "image": "/covers/52.jpg",
+    "note": "elettricità, Salmon Musiforum x Centrale Fies (secret location sulle Torricelle)"
+  },
+  {
+    "n": 53,
+    "artist": "Wendy Carlos",
+    "title": "Switched-On Bach",
+    "year": "1968",
+    "image": "/covers/53.jpg",
+    "note": "La sedicesima miniserie: elettricità vol.2"
+  },
+  {
+    "n": 54,
+    "artist": "Franco Battiato",
+    "title": "\"Clic\"",
+    "year": "1974",
+    "image": "/covers/54.jpg",
+    "note": "La sedicesima miniserie: elettricità vol.2"
+  },
+  {
+    "n": 55,
+    "artist": "Aphex Twin",
+    "title": "Selected Ambient Works 85-92",
+    "year": "1992",
+    "image": "/covers/55.jpg",
+    "note": "La sedicesima miniserie: elettricità vol.2 (all'Ammazza Caffè)"
+  },
+  {
+    "n": 56,
+    "artist": "MF DOOM",
+    "title": "MM..FOOD",
+    "year": "2004",
+    "image": "/covers/56.jpg",
+    "note": "La diciassettesima miniserie: campioni del campionatore"
+  },
+  {
+    "n": 57,
+    "artist": "Portishead",
+    "title": "Dummy",
+    "year": "1994",
+    "image": "/covers/57.jpg",
+    "note": "La diciassettesima miniserie: campioni del campionatore"
+  },
+  {
+    "n": 58,
+    "artist": "problemidifase",
+    "title": "tutto quello di cui avevamo bisogno",
+    "year": "2025",
+    "image": "/covers/58.jpg",
+    "note": "Release, Party? ep. 1 - Lo spin-off del Salmon Musiforum"
+  },
+  {
+    "n": 59,
+    "artist": "Daft Punk",
+    "title": "Discovery",
+    "year": "2001",
+    "image": "/covers/59.jpg",
+    "note": "La diciassettesima miniserie: campioni del campionatore, Salmon Musiforum x Magenta Film (in un aereo)"
+  },
+  {
+    "n": 60,
+    "artist": "paolo peruzzi",
+    "title": "THEY LISTEN WITH THE EYES CLOSED",
+    "year": "2025",
+    "image": "/covers/60.jpg",
+    "note": "La diciottesima miniserie: il diciottesimo delle miniserie"
+  },
+  {
+    "n": 61,
+    "artist": "King Krule",
+    "title": "Man Alive!",
+    "year": "2020",
+    "image": "/covers/61.jpg",
+    "note": "La diciottesima miniserie: il diciottesimo delle miniserie"
+  },
+  {
+    "n": 62,
+    "artist": "Bon Iver",
+    "title": "For Emma, Forever Ago",
+    "year": "2007",
+    "image": "/covers/62.jpg",
+    "note": "Valdiporro, Wisconsin. Salmon Musiforum x Leso 1815 (all'Albergo Leso 1815)"
+  },
+  {
+    "n": 63,
+    "artist": "Andrea Faccioli",
+    "title": "Andrea Faccioli plays Pet Sounds",
+    "year": "2026",
+    "image": "/covers/63.jpg",
+    "note": "Release, Party? ep. 2 - Lo spin-off del Salmon Musiforum"
+  },
+  {
+    "n": 64,
+    "artist": "Martha Argerich & Nelson Freire",
+    "title": "Bartók: Sonata For 2 Pianos And Percussion, Sz. 110 / Ravel: Ma mère l'oye, M. 62; Rapsodie espagnole, M. 54",
+    "year": "1994",
+    "image": "/covers/64.jpg",
+    "note": "La diciannovesima miniserie: kammermusik"
+  },
+  {
+    "n": 65,
+    "artist": "yMusic & The Staves",
+    "title": "The Way Is Read",
+    "year": "2017",
+    "image": "/covers/65.jpg",
+    "note": "70"
+  },
+  {
+    "n": 66,
+    "artist": "Casiopea",
+    "title": "カシオペア [Casiopea]",
+    "year": "1980",
+    "image": "/covers/66.jpg",
+    "note": "Japanese Hi-Fi Listening Session, alla Chirasheria"
+  },
+  {
+    "n": 67,
+    "artist": "[青葉市子 [Ichiko Aoba]](https://www.albumoftheyear.org/artist/23653-ichiko-aoba/)",
+    "title": "剃刀乙女 [Kamisori otome]",
+    "year": "2010",
+    "image": "/covers/67.jpg",
+    "note": "85"
+  },
+  {
+    "n": 68,
+    "artist": "Nick Drake",
+    "title": "Bryter Layter",
+    "year": "1971",
+    "image": "/covers/68.jpg",
+    "note": "La diciannovesima miniserie: kammermusik"
+  },
+  {
+    "n": 69,
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "year": "2000",
+    "image": "/covers/69.jpg",
+    "note": "La ventesima miniserie: le svolte. Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 70,
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel",
+    "year": "1977",
+    "image": "/covers/70.jpg",
+    "note": "La ventesima miniserie: le svolte. Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 71,
+    "artist": "The Beatles",
+    "title": "Revolver",
+    "year": "1966",
+    "image": "/covers/71.jpg",
+    "note": "La ventesima miniserie: le svolte. Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 72,
+    "artist": "Don Cherry",
+    "title": "Brown Rice",
+    "year": "1975",
+    "image": "/covers/72.jpg",
+    "note": "La Repubblica delle Donne. 80 anni di futuro, Salmon Musiforum per il Comune di Verona, ospiti Laura Agnusdei e PLASTICA"
+  },
+  {
+    "n": 73,
+    "artist": "Yu Su",
+    "title": "Yellow River Blue",
+    "year": "2021",
+    "image": "/covers/73.jpg",
+    "note": "La Repubblica delle Donne. 80 anni di futuro, Salmon Musiforum per il Comune di Verona, ospiti Laura Agnusdei e PLASTICA"
+  },
+  {
+    "n": 74,
+    "artist": "Hiatus Kaiyote",
+    "title": "Tawk Tomahawk",
+    "year": "2012",
+    "image": "/covers/74.jpg",
+    "note": "primavera."
+  },
+  {
+    "n": 75,
+    "artist": "Fishmans",
+    "title": "LONG SEASON",
+    "year": "1996",
+    "image": "/covers/75.jpg",
+    "note": "Japanese Hi-Fi Listening Session vol.2, alla Chirasheria"
+  },
+  {
+    "n": 76,
+    "artist": "Yellow Magic Orchestra",
+    "title": "Solid State Survivor",
+    "year": "1979",
+    "image": "/covers/76.jpg",
+    "note": "Japanese Hi-Fi Listening Session vol.2, alla Chirasheria"
+  },
+  {
+    "n": 77,
+    "artist": "Cat Stevens",
+    "title": "Teaser and the Firecat",
+    "year": "1971",
+    "image": "/covers/77.jpg",
+    "note": "Salmon Musiforum x L'Ipogeo e le sue vie, a Villa Giusti-Puttini"
+  },
+  {
+    "n": 78,
+    "artist": "DJ Shadow",
+    "title": "Endtroducing.....",
+    "year": "1996",
+    "image": "/covers/78.jpg",
+    "note": "ENDTRODUCING..... Salmon Musiforum x Negozio Studio, con live painting by Alberto Casagrande"
+  },
+  {
+    "n": 79,
+    "artist": "Adrianne Lenker",
+    "title": "songs and instrumentals",
+    "year": "2020",
+    "image": "/covers/79.jpg",
+    "note": "songs and instrumentals. Salmon Musiforum x Anfiteatro del Venda, all'Anfiteatro del Venda (PD)"
+  },
+  {
+    "n": 80,
+    "artist": "Floating Points",
+    "title": "Elaenia",
+    "year": "2015",
+    "image": "/covers/80.jpg",
+    "note": "La ventunesima miniserie: villa meriggio, dischi al crepuscolo."
+  },
+  {
+    "n": 81,
+    "artist": "Flying Lotus",
+    "title": "You're Dead!",
+    "year": "2014",
+    "image": "/covers/81.jpg",
+    "note": "La ventunesima miniserie: villa meriggio, dischi al crepuscolo."
+  },
+  {
+    "n": 82,
+    "artist": "Djrum",
+    "title": "Under Tangled Silence",
+    "year": "2025",
+    "image": "/covers/82.jpg",
+    "note": "La ventunesima miniserie: villa meriggio, dischi al crepuscolo."
+  },
+  {
+    "n": 83,
+    "artist": "Lyra Pramuk",
+    "title": "Fountain",
+    "year": "2020",
+    "image": "/covers/83.jpg",
+    "note": "Apres Fies. Salmon Musiforum x Centrale Fies x Macadame Collective, nel bosco di Pazzon per “Sentieri nell’arte”"
+  },
+  {
+    "n": 84,
+    "artist": "St. Vincent",
+    "title": "MASSEDUCTION",
+    "year": "2017",
+    "image": "/covers/84.jpg",
+    "note": "MASSEDUCTION. Salmon Musiforum X Bridge Film Festival, all’Antica dogana di fiume"
+  },
+  {
+    "n": 85,
+    "artist": "Mikel Laboa",
+    "title": "Bat-Hiru",
+    "year": "1974",
+    "image": "/covers/85.jpg",
+    "note": "La ventiduesima miniserie: lingua madre lingua madre lingua. Salmon Musiforum x Film Festival della Lessinia, presso la Sala Acustica del Festival"
+  },
+  {
+    "n": 86,
+    "artist": "Ganes",
+    "title": "Rai de sorëdl",
+    "year": "2010",
+    "image": "/covers/86.jpg",
+    "note": "La ventiduesima miniserie: lingua madre lingua madre lingua. Salmon Musiforum x Film Festival della Lessinia, presso la Sala Acustica del Festival"
+  },
+  {
+    "n": 87,
+    "artist": "Tenores Di Bitti",
+    "title": "S'amore 'e mama",
+    "year": "1996",
+    "image": "/covers/87.jpg",
+    "note": "La ventiduesima miniserie: lingua madre lingua madre lingua. Salmon Musiforum x Film Festival della Lessinia, presso la Sala Acustica del Festival"
+  },
+  {
+    "n": 88,
+    "artist": "Buena Vista Social Club",
+    "title": "Buena Vista Social Club",
+    "year": "1997",
+    "image": "/covers/88.jpg",
+    "note": "Buena Vista Social Club. Salmon Musiforum x Andarò Festival, al Forte Montorio"
+  },
+  {
+    "n": 89,
+    "artist": "The Edge Of Daybreak",
+    "title": "Eyes of Love",
+    "year": "1979",
+    "image": "/covers/89.jpg",
+    "note": "La ventitreesima miniserie: back to redazione."
+  },
+  {
+    "n": 90,
+    "artist": "Ween",
+    "title": "The Mollusk",
+    "year": "1997",
+    "image": "/covers/90.jpg",
+    "note": "La ventitreesima miniserie: back to redazione."
+  },
+  {
+    "n": 91,
+    "artist": "Addison Rae",
+    "title": "Addison",
+    "year": "2025",
+    "image": "/covers/91.jpg",
+    "note": "La ventitreesima miniserie: back to redazione."
+  },
+  {
+    "n": 92,
+    "artist": "HÅN",
+    "title": "Una Nuova Fine",
+    "year": "2026",
+    "image": "/covers/92.jpg",
+    "note": "Release, Party? ep. 3 - Lo spin-off del Salmon Musiforum, alla Fattoria del MiniMondo"
+  },
+  {
+    "n": 93,
+    "artist": "Pat Metheny Group",
+    "title": "The Way Up",
+    "year": "2005",
+    "image": "/covers/93.jpg",
+    "note": "La ventiquattresima miniserie: FUORI FORMA."
+  },
+  {
+    "n": 94,
+    "artist": "Talk Talk",
+    "title": "Laughing Stock",
+    "year": "1991",
+    "image": "/covers/94.jpg",
+    "note": "La ventiquattresima miniserie: FUORI FORMA."
+  },
+  {
+    "n": 95,
+    "artist": "Madvillain",
+    "title": "Madvillainy",
+    "year": "2004",
+    "image": "/covers/95.jpg",
+    "note": "La venticinquesima miniserie: HIP HOP HI-FI LISTENING SESSIONS. Salmon Musiforum per il Comune di Verona.",
+    "date": "2026-11-03"
+  },
+  {
+    "n": 96,
+    "artist": "Little Simz",
+    "title": "Lotus",
+    "year": "2025",
+    "image": "/lotus-cover.jpg",
+    "note": "La venticinquesima miniserie: HIP HOP HI-FI LISTENING SESSIONS. Salmon Musiforum per il Comune di Verona.",
+    "date": "2026-11-10"
+  },
+  {
+    "n": 97,
+    "artist": "Travis Scott",
+    "title": "ASTROWORLD",
+    "year": "2018",
+    "image": "/covers/97.jpg",
+    "note": "La venticinquesima miniserie: HIP HOP HI-FI LISTENING SESSIONS. Salmon Musiforum per il Comune di Verona.",
+    "date": "2026-11-17"
+  },
+  {
+    "n": 98,
+    "artist": "Pink Floyd",
+    "title": "The Dark Side of the Moon",
+    "year": "1973",
+    "image": "/covers/98.jpg",
+    "note": "La ventiseiesima miniserie: megaproduzioni vol. 2, Salmon Musiforum x Venyer Hi-Fi Listening Bar",
+    "date": "2026-11-11"
+  },
+  {
+    "n": 99,
+    "artist": "Prince and The Revolution",
+    "title": "Purple Rain",
+    "year": "1984",
+    "image": "/covers/99.jpg",
+    "note": "La ventiseiesima miniserie: megaproduzioni vol. 2, Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 100,
+    "artist": "Björk",
+    "title": "Homogenic",
+    "year": "1997",
+    "image": "/covers/100.jpg",
+    "note": "La ventiseiesima miniserie: megaproduzioni vol. 2, Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 101,
+    "artist": "Radiohead",
+    "title": "In Rainbows",
+    "year": "2007",
+    "image": "/covers/101.jpg",
+    "note": "La ventiseiesima miniserie: megaproduzioni vol. 2, Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 102,
+    "artist": "Beyoncé",
+    "title": "Lemonade",
+    "year": "2016",
+    "image": "/covers/102.jpg",
+    "note": "La ventiseiesima miniserie: megaproduzioni vol. 2, Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 103,
+    "artist": "Charli xcx",
+    "title": "BRAT",
+    "year": "2024",
+    "image": "/covers/103.jpg",
+    "note": "La ventiseiesima miniserie: megaproduzioni vol. 2, Salmon Musiforum x Venyer Hi-Fi Listening Bar"
+  },
+  {
+    "n": 104,
+    "artist": "Francesco De Gregori",
+    "title": "Rimmel",
+    "year": "1975",
+    "date": "2026-11-06",
+    "place": "Cantina Tommasi / Pedemonte",
+    "url": "https://www.eventbrite.it/e/2004004731097",
+    "note": "Ascolto alla Cantina Tommasi di Pedemonte.",
+    "image": "/covers/104.jpg"
+  }
+]

@@ -1,0 +1,42 @@
+import historyAlbums from "../public/history-data.json";
+import handler from "vinext/server/fetch-handler";
+import { runWithConnectorBinding } from "../lib/connector-context";
+import type { ConnectorBinding } from "../lib/connector-contract.mjs";
+
+const worker = {
+  fetch(request: Request, env: Cloudflare.Env, ctx: ExecutionContext<{ CONNECTORS?: ConnectorBinding }>) {
+    const path = new URL(request.url).pathname;
+    const match = /^\/history-cover\/(\d{1,3})$/.exec(path);
+    if (match) return coverResponse(request, Number(match[1]));
+    let binding = ctx.props?.CONNECTORS;
+    // Local preview emulates the same request-scoped capability. This branch and
+    // the auxiliary service binding are absent from production builds.
+    if (import.meta.env.DEV && !binding && env.CONNECTORS) {
+      const preview = env.CONNECTORS;
+      const expiresAt = Date.now() + 60_000;
+      binding = {
+        async getContext() {
+          if (Date.now() >= expiresAt) return { status: "request_context_expired" };
+          return preview.getContext?.() ?? { status: "binding_unavailable" };
+        },
+        async invoke(connectorId, actionName, args) {
+          if (Date.now() >= expiresAt) {
+            return { status: "request_context_expired", message: "This request has expired. Please try again." };
+          }
+          return preview.invoke(connectorId, actionName, args);
+        },
+      };
+    }
+    return runWithConnectorBinding(binding, () => handler.fetch(request, env, ctx));
+  },
+};
+
+export default worker;
+
+function coverResponse(request: Request, n: number): Response {
+  const image = historyAlbums.find(album => album.n === n)?.image;
+  if (!image || !/^\/(?:covers\/\d+|lotus-cover)\.jpg$/.test(image)) {
+    return new Response(null, { status: 404 });
+  }
+  return Response.redirect(new URL(image, request.url), 307);
+}
