@@ -126,3 +126,6 @@ const priorRefreshSponsor=refreshPage;refreshPage=function(){priorRefreshSponsor
 
 const renderHomeBeforeSessionNumber=renderHome;renderHome=function(){renderHomeBeforeSessionNumber();const match=catalog.find(a=>albumIdentity(a.artist,a.title)===albumIdentity(data.artist,data.title));const value=String(data.eventNumber||((match?.n>0&&match.n<=103)?match.n:'')).trim();const heading=document.getElementById('home-title');heading.textContent=value?'N. '+value:'';};
 const refreshBeforeTextCtas=refreshPage;refreshPage=function(){refreshBeforeTextCtas();const primary=document.querySelector('.intro-actions button'),secondary=document.querySelector('.album-info button');if(primary)primary.textContent='Scopri i testi';if(secondary)secondary.textContent='Scopri i testi'};
+
+// Provide a non-gesture alternative and identify the active language.
+const previousSetTab=setTab;setTab=function(value){previousSetTab(value);const label=document.getElementById('language-label'),button=document.getElementById('language-switch');if(label)label.textContent=value==='original'?'Testo originale':'Traduzione';if(button)button.textContent=value==='original'?'Leggi la traduzione':'Leggi il testo originale'};
