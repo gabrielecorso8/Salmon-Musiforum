@@ -118,6 +118,7 @@ function collectCopyDefaults() {
 
 function copyText(key, values = {}) {
   let result = typeof pageCopy[key] === 'string' ? pageCopy[key] : copyDefaults.get(key)?.value || '';
+  if (key === 'hero.events' && result.trim() === 'Prossimi appuntamenti') result = 'Scopri i prossimi appuntamenti';
   for (const [name, value] of Object.entries(values)) result = result.replaceAll('{' + name + '}', value);
   return result;
 }

@@ -5,6 +5,9 @@ const headers={'Cache-Control':'no-store'};
 export async function POST(req:Request){
  if(req.headers.get('origin')!==new URL(req.url).origin)return new Response(null,{status:403});
  try{
+  const user=await getChatGPTUser();const email=user?.email?.toLowerCase();
+  const owner=((env as unknown as {MUSIFORUM_OWNER_EMAIL?:string}).MUSIFORUM_OWNER_EMAIL||'').toLowerCase();
+  if(email&&(email===owner||await env.DB.prepare('SELECT email FROM editors WHERE email=?').bind(email).first()))return new Response(null,{status:204,headers});
   const text=await req.text(); if(text.length>128)return new Response(null,{status:413});
   const body=JSON.parse(text);if(!body||Object.keys(body).length!==1||!allowed.has(body.event))return new Response(null,{status:400});
   const day=new Intl.DateTimeFormat('en-CA',{timeZone:'Europe/Rome',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
